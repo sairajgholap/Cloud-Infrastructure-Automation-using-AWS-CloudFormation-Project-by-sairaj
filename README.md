@@ -36,6 +36,9 @@ The goal is to automate the provisioning of AWS resources and reduce manual setu
 - DevOps & cloud best practices
 - Version control using GitHub
 
+- ## Screenshots
+Screenshots of stack creation are available in the CloudFormation screenshots folder.
+
 ## Author
 Sairaj Gholap
 
