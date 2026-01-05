@@ -38,6 +38,7 @@ The goal is to automate the provisioning of AWS resources and reduce manual setu
 
 - ## Screenshots
 Screenshots of stack creation are available in the CloudFormation screenshots folder.
+#This project automates AWS infrastructure using CloudFormation.
 
 ## Author
 Sairaj Gholap
